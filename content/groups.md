@@ -18,7 +18,7 @@ I am a developer on RIF's quantitative analytics team and write software to auto
     - a slackbot designed to react to messages in [slack](https://slack.com/) and return a pdf stock report upon request.
 
 - [MachineLearningProj](https://github.com/RamblerInvestmentFund/MachineLearningProj)
-    - implements SVM and LSTM models in attempt to predict the daily gradient of opening stock values and make trading decisions based on its predictions.
+    - implements SVM and LSTM models using scikit-learn and TensorFlow 2.0 in attempt to predict the daily gradient of opening stock values and make trading decisions based on its predictions.
 
 ---
 
