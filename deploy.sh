@@ -7,7 +7,7 @@ cp -r public/* $WEBSITE;
 cd $WEBSITE;
 
 git add .;
-git commit -m 'rebuild';
+git commit -m 'rebuild: see mhyatt000/blog';
 git push;
 
 cd -;

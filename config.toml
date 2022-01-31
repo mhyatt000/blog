@@ -139,9 +139,9 @@ weight = 3
 url = "publications/"
 
 [[languages.en.menu.main]]
-name = 'Other'
+name = 'Groups'
 weight = 4
-url = "other/"
+url = "groups/"
 # # ideas...
 
 # [[languages.en.menu.main]]
