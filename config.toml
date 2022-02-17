@@ -131,7 +131,7 @@ url = "about/"
 [[languages.en.menu.main]]
 name = "CV"
 weight = 2
-url = "matthew-hyatt-cv.pdf"
+url = "matthewhyatt-cv.pdf"
 
 [[languages.en.menu.main]]
 name = "Publications"
