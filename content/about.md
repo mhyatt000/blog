@@ -4,7 +4,7 @@ date: 2022-01-28T20:37:04-06:00
 draft: false
 ---
 
-I am a Computer Science major at Loyola University Chicago.  I am from Highland Park Illinois.  Some of my hobbies include hiphop dance, lifting weights, and construction projects.  I have close ties to my extended family and it is a long standing tradition for us to have Sunday night dinner together.
+I am a Computer Science major at [Loyola University Chicago](https://www.luc.edu/cs/index.shtml).  Some of my hobbies include hiphop dance, lifting weights, and construction projects.  I have close ties to my extended family and it is a long standing tradition for us to have Sunday night dinner together.
 
 I first became interested in computer science during my high school classes. I have always been fascinated by the idea of efficiency, and using tools in order to complete goals in innovative ways.  My passion for CS truly began when I began learning about neural networks. I was hooked on the idea of teaching computers to learn things that humans have failed to learn, and the prospect that we will be learning from them along the way.  
 
