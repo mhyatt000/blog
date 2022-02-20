@@ -4,11 +4,11 @@ date: 2022-01-28T20:37:04-06:00
 draft: false
 ---
 
-I am a Computer Science major at [Loyola University Chicago](https://www.luc.edu/cs/index.shtml).  Some of my hobbies include hiphop dance, lifting weights, and construction projects.  I have close ties to my extended family and it is a long standing tradition for us to have Sunday night dinner together.
+I am a Computer Science major at [Loyola University Chicago](https://www.luc.edu/cs/index.shtml).  Some of my hobbies include hiphop dance, weight lifting, and construction projects.  I have close ties to my extended family and it is a long standing tradition for us to have Sunday night dinner together.
 
 I first became interested in computer science during my high school classes. I have always been fascinated by the idea of efficiency, and using tools in order to complete goals in innovative ways.  My passion for CS truly started when I learned  of neural networks. I was hooked on the idea of teaching computers to learn things that humans have failed to learn, and the prospect that we will be learning from them along the way.  
 
-One of my favorite podcasts by `Lex Friedman` explores some of the philosophic questions behind AI including, theories behind human intelligence and human computer relationships.
+One of my favorite podcasts by `Lex Friedman` explores some of the philosophic questions behind AI including theories behind human intelligence and human computer relationships.
 
 I am committed to ensuring that changes as a result of AI are positive for humanity.  Upon graduation from Loyola, I hope to pursue an MS in AI and continue my work as a computer science researcher.
 
