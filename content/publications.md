@@ -6,8 +6,8 @@ draft: false
 
 1. Hyatt, Matt, Kuhl, Amy, Palmer, Jake, Sethi, Rohan, Synovic, Nicholas, Thiruvathukal, George, and Thota, Sohini. (2021). SSL Metrics Datasets (0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5636779
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5636779.svg)](https://doi.org/10.5281/zenodo.5636779)
+<a href="https://doi.org/10.5281/zenodo.5636779"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5636779.svg" alt="DOI"></a>
 
 2. Hyatt, Matt, Kuhl, Amy, Palmer, Jake, Sethi, Rohan, Stoneman, Ethan, Synovic, Nicholas, Thota, Sohini, & Thiruvathukal, George K. (2022). SoftwareSystemsLaboratory/ssl-metrics (0.8). Zenodo. https://doi.org/10.5281/zenodo.6025973
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6025973.svg)](https://doi.org/10.5281/zenodo.6025973)
+<a href="https://doi.org/10.5281/zenodo.6025973"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.6025973.svg" alt="DOI"></a>
