@@ -10,8 +10,6 @@ These are some of the Loyola affiliated groups I participate in during my free t
 
 ## [Rambler Investment Fund (RIF)](https://www.ramblerfund.com/)
 
-<!-- add rif svg and laic svg -->
-
 RIF is a student managed portfolio valued at over 1 million dollars. RIF provides students with opportunities to build skills in financial analysis and risk assessment as well as to network with industry professionals.
 
 I am a developer on RIF's quantitative analytics team and write software to automate and visualize stock analysis. Here are some of the projects I am currently working on:
