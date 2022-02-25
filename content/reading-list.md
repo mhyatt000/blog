@@ -14,11 +14,16 @@ I'm constantly learning more about the world around me by reading the work of ot
 
 ## Books
 
+### CS
+
 - Python One-Liners
     - Christian Mayer
+- The Age of AI
+    - Henry A. Kissinger
+
+### Economics
+
 - The Winner's Curse
     - Richard H. Thaler
 - Basic Economics
     - Thomas Sowell
-- The Age of AI
-    - Henry A. Kissinger
