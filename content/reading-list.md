@@ -8,9 +8,9 @@ I'm constantly learning more about the world around me by reading the work of ot
 
 ## Research Papers
 
-- [Language Models are Few-Shot Learners (GPT3)](https://arxiv.org/pdf/2005.14165.pdf)
-- [MapReduce](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
-- [Apache Hadoop YARN](https://www.cse.ust.hk/~weiwa/teaching/Fall15-COMP6611B/reading_list/YARN.pdf)
+- [(2020) Language Models are Few-Shot Learners (GPT3)](https://arxiv.org/pdf/2005.14165.pdf)
+- [(2004) MapReduce](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+- [(2013) Apache Hadoop YARN](https://www.cse.ust.hk/~weiwa/teaching/Fall15-COMP6611B/reading_list/YARN.pdf)
 
 ## Books
 
