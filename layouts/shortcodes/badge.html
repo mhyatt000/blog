@@ -1,0 +1,8 @@
+<div align="left">
+<figure>
+    < a href="{{ .link (index .Params 1)}}">
+    </a>
+    {{ readFile (print "static/" (index .Params 0)) | safeHTML }}
+
+</figure>
+</div>

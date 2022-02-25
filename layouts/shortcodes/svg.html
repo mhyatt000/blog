@@ -1,0 +1,5 @@
+<div style="margin-left:-650px;">
+<figure>
+        {{ readFile (print "static/" (index .Params 0)) | safeHTML }}
+</figure>
+</div>
