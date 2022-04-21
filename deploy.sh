@@ -1,13 +1,13 @@
 #!/bin/bash
 
+git add -A; git commit -m deploy; git push
+
 hugo -t hugo-coder;
 export WEBSITE=$CS/mhyatt000.github.io;
 
 cp -r public/* $WEBSITE;
 cd $WEBSITE;
 
-git add .;
-git commit -m 'rebuild: see mhyatt000/blog';
-git push;
+git add -A; git commit -m deploy; git push
 
 cd -;

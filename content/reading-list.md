@@ -11,6 +11,9 @@ I'm constantly learning more about the world around me by reading the work of ot
 - [(2020) Language Models are Few-Shot Learners (GPT3)](https://arxiv.org/pdf/2005.14165.pdf)
 - [(2004) MapReduce](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 - [(2013) Apache Hadoop YARN](https://www.cse.ust.hk/~weiwa/teaching/Fall15-COMP6611B/reading_list/YARN.pdf)
+- [(2017) Aggregated Residual Transformations for Deep Neural Networks (ResNeXt)](https://arxiv.org/pdf/1611.05431.pdf)
+- [(2020) ResNeSt: Split-Attention Networks](https://arxiv.org/pdf/2004.08955.pdf)
+- [(2021) CPTR: FULL TRANSFORMER NETWORK FOR IMAGE CAPTIONING](https://arxiv.org/pdf/2101.10804.pdf)
 
 ## Books
 
